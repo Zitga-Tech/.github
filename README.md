@@ -6,9 +6,9 @@ We are a part of [Zitga Studios](https://zitga.com.vn/en/about-us/). Here we ded
 
 ## Contribution
 
-We sincerely appreciate the open source community around the world for your works and knowledge. Because of that we could successfully delivery our products.
+We sincerely appreciate the open source community around the world for your works and knowledge. Thanks to your greatness, we could successfully delivery our products from time to time.
 
-It's our obligation to contribute back to the community so we can grow further together.
+Because of that we feel obligated to contribute back to the community so we can grow further together.
 
 ## Disclaimer
 
